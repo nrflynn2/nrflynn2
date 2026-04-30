@@ -27,7 +27,7 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
-| Apr 2026 | [what this site is for](https://noahrflynn.com/blog/2026/what-this-site-is-for/) |
+| - | No posts found |
 <!-- BLOG-POST-LIST:END -->
 
 Follow via [RSS](https://noahrflynn.com/feed.xml) or [Substack](https://substack.com/@noaflynn).
