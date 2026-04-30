@@ -7,7 +7,7 @@ My work sits at the intersection of production AI systems, computational drug di
 ## What I'm working on
 
 <a href="https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website">
-  <img src="book-cover.png" alt="Machine Learning for Drug Discovery cover" width="155" align="left">
+  <img src="book-cover.png" alt="Machine Learning for Drug Discovery cover" width="155" align="right">
 </a>
 
 I'm writing and launching [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website), a hands-on Manning book about applying PyTorch, cheminformatics, graph neural networks, generative models, molecular dynamics, AlphaFold, and LLMs to real pharmaceutical problems.
