@@ -27,7 +27,10 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
-| - | No posts found |
+| May 2026 | [Druggability, ligandability, and modality choice in the AlphaFold 3 era](https://noahrflynn.com/blog/2026/druggability-assessment-alphafold-3/) |
+| May 2026 | [How to tell a drug target matters: evidence frameworks for target–disease linkage](https://noahrflynn.com/blog/2026/target-disease-association-evidence/) |
+| May 2026 | [Drug target discovery: the front-of-funnel decision behind most Phase II failures](https://noahrflynn.com/blog/2026/drug-target-discovery-phase-ii-failures/) |
+| Apr 2026 | [What This Site Is For](https://noahrflynn.com/blog/2026/what-this-site-is-for/) |
 <!-- BLOG-POST-LIST:END -->
 
 Follow via [RSS](https://noahrflynn.com/feed.xml) or [Substack](https://substack.com/@noaflynn).
