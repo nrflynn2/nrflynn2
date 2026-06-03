@@ -27,6 +27,8 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Jun 2026 | [Likelihood of approval, phase transitions, and the crowded-vs-abandoned map of therapeutic areas](https://noahrflynn.com/blog/2026/likelihood-of-approval-therapeutic-area/) |
+| Jun 2026 | [Tissue specificity as a safety filter: GTEx, Human Protein Atlas, and scRNA-seq for target prioritization](https://noahrflynn.com/blog/2026/tissue-specificity-drug-target-safety/) |
 | May 2026 | [Druggability, ligandability, and modality choice in the AlphaFold 3 era](https://noahrflynn.com/blog/2026/druggability-assessment-alphafold-3/) |
 | May 2026 | [How to tell a drug target matters: evidence frameworks for target–disease linkage](https://noahrflynn.com/blog/2026/target-disease-association-evidence/) |
 | May 2026 | [Drug target discovery: the front-of-funnel decision behind most Phase II failures](https://noahrflynn.com/blog/2026/drug-target-discovery-phase-ii-failures/) |
