@@ -27,6 +27,7 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Jun 2026 | [Chemical and Biological Data Repositories for AI Drug Discovery](https://noahrflynn.com/blog/2026/chemical-biological-data-repositories-ai-drug-discovery/) |
 | Jun 2026 | [Likelihood of approval, phase transitions, and the crowded-vs-abandoned map of therapeutic areas](https://noahrflynn.com/blog/2026/likelihood-of-approval-therapeutic-area/) |
 | Jun 2026 | [Tissue specificity as a safety filter: GTEx, Human Protein Atlas, and scRNA-seq for target prioritization](https://noahrflynn.com/blog/2026/tissue-specificity-drug-target-safety/) |
 | May 2026 | [Druggability, ligandability, and modality choice in the AlphaFold 3 era](https://noahrflynn.com/blog/2026/druggability-assessment-alphafold-3/) |
