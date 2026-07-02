@@ -27,13 +27,14 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Jun 2026 | [Virtual cells for target discovery, perturbation models, and benchmarks](https://noahrflynn.com/blog/2026/virtual-cells-target-discovery/) |
+| Jun 2026 | [Synthetic lethality and combination targets: ML methods for finding drug pairs that work together](https://noahrflynn.com/blog/2026/synthetic-lethality-drug-discovery-ml/) |
 | Jun 2026 | [Chemical and Biological Data Repositories for AI Drug Discovery](https://noahrflynn.com/blog/2026/chemical-biological-data-repositories-ai-drug-discovery/) |
+| Jun 2026 | [Knowledge graphs, network medicine, and the first end-to-end AI-discovered drug: a target-discovery case study](https://noahrflynn.com/blog/2026/knowledge-graphs-drug-target-discovery-rentosertib/) |
 | Jun 2026 | [Likelihood of approval, phase transitions, and the crowded-vs-abandoned map of therapeutic areas](https://noahrflynn.com/blog/2026/likelihood-of-approval-therapeutic-area/) |
 | Jun 2026 | [Tissue specificity as a safety filter: GTEx, Human Protein Atlas, and scRNA-seq for target prioritization](https://noahrflynn.com/blog/2026/tissue-specificity-drug-target-safety/) |
+| May 2026 | [Novel vs repurposed targets: quantifying novelty and extending drug-repurposing methods](https://noahrflynn.com/blog/2026/drug-target-novelty-repurposing/) |
 | May 2026 | [Druggability, ligandability, and modality choice in the AlphaFold 3 era](https://noahrflynn.com/blog/2026/druggability-assessment-alphafold-3/) |
-| May 2026 | [How to tell a drug target matters: evidence frameworks for target–disease linkage](https://noahrflynn.com/blog/2026/target-disease-association-evidence/) |
-| May 2026 | [Drug target discovery: the front-of-funnel decision behind most Phase II failures](https://noahrflynn.com/blog/2026/drug-target-discovery-phase-ii-failures/) |
-| Apr 2026 | [What This Site Is For](https://noahrflynn.com/blog/2026/what-this-site-is-for/) |
 <!-- BLOG-POST-LIST:END -->
 
 Follow via [RSS](https://noahrflynn.com/feed.xml) or [Substack](https://substack.com/@noaflynn).
