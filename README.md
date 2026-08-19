@@ -1,16 +1,16 @@
 # Hi, I'm Noah
 
-I'm a Senior Research Scientist at Google Cloud AI, working on Gemini Enterprise agentic systems for deep research, coding, and data science workflows. Previously, I was an Applied Scientist II at Amazon AWS AI Labs, where I worked on agentic AI, foundation model adaptation, long-context reasoning, and the Amazon Nova model family.
+I'm a Senior Research Scientist at Google Cloud AI, working on Gemini Enterprise agentic systems for deep research, coding (WebDev, GameDev, ML Eng), finance, and data science workflows. Previously, I was an Applied Scientist II at Amazon AWS AI Labs, where I worked on agentic AI, foundation model adaptation, long-context reasoning, and the Amazon Nova model family.
 
 My work sits at the intersection of production AI systems, computational drug discovery, and teaching. I write at [noahrflynn.com](https://noahrflynn.com).
 
 ## What I'm working on
 
 <a href="https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website">
-  <img src="book-cover.png" alt="Machine Learning for Drug Discovery cover" width="155" align="right">
+  <img src="book-cover.png" alt="Build AI Drug Discovery Pipelines cover" width="155" align="right">
 </a>
 
-I'm writing and launching [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website), a hands-on Manning book about applying PyTorch, cheminformatics, graph neural networks, generative models, molecular dynamics, AlphaFold, and LLMs to real pharmaceutical problems.
+I'm writing and launching [Build AI Drug Discovery Pipelines](https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website), a hands-on Manning book about applying PyTorch, cheminformatics, graph neural networks, generative models, molecular dynamics, AlphaFold, and LLMs to real pharmaceutical problems.
 
 All chapters are available in Manning MEAP. Use code `au35fly` for 35% off.
 
@@ -53,7 +53,7 @@ Follow via [RSS](https://noahrflynn.com/feed.xml) or [Substack](https://substack
 ## Links
 
 - Website: [noahrflynn.com](https://noahrflynn.com)
-- Book: [Machine Learning for Drug Discovery](https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website)
+- Book: [Build AI Drug Discovery Pipelines](https://www.manning.com/books/machine-learning-for-drug-discovery?utm_source=flynn&utm_medium=affiliate&utm_campaign=book_flynn_machine_2_29_24&a_aid=flynn&a_bid=ddb44578&chan=mm_website)
 - Publications: [Google Scholar](https://scholar.google.com/citations?user=KsUG8GgAAAAJ)
 - LinkedIn: [noahflynn](https://www.linkedin.com/in/noahflynn/)
 
