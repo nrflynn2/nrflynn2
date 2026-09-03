@@ -27,6 +27,7 @@ I publish canonical posts on my site, then syndicate elsewhere.
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Sep 2026 | [Build AI Drug Discovery Pipelines, MEAP v12: five new appendices and the last update before production](https://noahrflynn.com/blog/2026/meap-v12-five-new-appendices/) |
 | Jun 2026 | [Virtual cells for target discovery, perturbation models, and benchmarks](https://noahrflynn.com/blog/2026/virtual-cells-target-discovery/) |
 | Jun 2026 | [Synthetic lethality and combination targets: ML methods for finding drug pairs that work together](https://noahrflynn.com/blog/2026/synthetic-lethality-drug-discovery-ml/) |
 | Jun 2026 | [Chemical and Biological Data Repositories for AI Drug Discovery](https://noahrflynn.com/blog/2026/chemical-biological-data-repositories-ai-drug-discovery/) |
@@ -34,7 +35,6 @@ I publish canonical posts on my site, then syndicate elsewhere.
 | Jun 2026 | [Likelihood of approval, phase transitions, and the crowded-vs-abandoned map of therapeutic areas](https://noahrflynn.com/blog/2026/likelihood-of-approval-therapeutic-area/) |
 | Jun 2026 | [Tissue specificity as a safety filter: GTEx, Human Protein Atlas, and scRNA-seq for target prioritization](https://noahrflynn.com/blog/2026/tissue-specificity-drug-target-safety/) |
 | May 2026 | [Novel vs repurposed targets: quantifying novelty and extending drug-repurposing methods](https://noahrflynn.com/blog/2026/drug-target-novelty-repurposing/) |
-| May 2026 | [Druggability, ligandability, and modality choice in the AlphaFold 3 era](https://noahrflynn.com/blog/2026/druggability-assessment-alphafold-3/) |
 <!-- BLOG-POST-LIST:END -->
 
 Follow via [RSS](https://noahrflynn.com/feed.xml) or [Substack](https://substack.com/@noaflynn).
